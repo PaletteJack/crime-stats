@@ -3,3 +3,4 @@ Crimes_2001_to_Present.csv
 venv/
 .ipynb_checkpoints/
 .virtual_documents/
+.jupyter/
